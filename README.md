@@ -64,8 +64,9 @@ Online shopping website built with React.
 
 ---
 
-### 📱 Multi-platform Online Communication App ZaloLite - 
+### 📱 Multi-platform Online Communication App ZaloLite
 Online app, mobile real-time chat built with Socket.io
+
 Link: https://chat.zalolite.app
 
 **Tech Stack**
