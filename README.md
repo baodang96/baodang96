@@ -65,7 +65,8 @@ Online shopping website built with React.
 ---
 
 ### 📱 Multi-platform Online Communication App ZaloLite - 
-![See website](https://chat.zalolite.app)
+Online app, mobile real-time chat built with Socket.io
+Link: https://chat.zalolite.app
 
 **Tech Stack**
 
@@ -73,6 +74,7 @@ Online shopping website built with React.
 - React Native
 - AWS DynamoDB
 - AWS EC2
+- Socket.io
 
 ---
 
