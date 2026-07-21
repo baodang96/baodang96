@@ -20,6 +20,14 @@
 
 ---
 
+## 📫 Connect with Me
+
+- 📧 Email: baodang9604@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gia-b%C3%A3o-%C4%91%E1%BA%B7ng-138821413/
+- 🌐 Portfolio: 
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -86,14 +94,6 @@ Link: https://chat.zalolite.app
 ![](https://github-readme-streak-stats.herokuapp.com/?user=baodang96&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baodang96&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: baodang9604@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/gia-b%C3%A3o-%C4%91%E1%BA%B7ng-138821413/
-- 🌐 Portfolio: 
 
 ---
 
