@@ -23,7 +23,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: baodang9604@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/gia-b%C3%A3o-%C4%91%E1%BA%B7ng-138821413/
+- 💼 LinkedIn: https://www.linkedin.com/in/baodang96/
 - 🌐 Portfolio: 
 
 ---
