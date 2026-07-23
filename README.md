@@ -24,7 +24,7 @@
 
 - 📧 Email: baodang9604@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/baodang96/
-- 🌐 Portfolio: baodang96.netlify.app
+- 🌐 Portfolio: https://baodang96.netlify.app
 
 ---
 
